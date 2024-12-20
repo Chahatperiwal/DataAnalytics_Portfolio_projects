@@ -23,3 +23,8 @@ Analyze the global trends in COVID-19 deaths and vaccination rates.
 Compare vaccination progress across regions and countries.
 Identify patterns or correlations between vaccination rates and death rates.
 Provide actionable insights and clear data visualization for stakeholders.
+
+Key Insights
+Countries with higher vaccination rates show significantly lower death rates.
+Seasonal trends impact the spread of the virus and vaccination rollout.
+Certain regions exhibit slower vaccination rates, highlighting potential equity issues.
